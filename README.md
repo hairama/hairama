@@ -2,7 +2,7 @@
 
 Currently:
   ---
-<p><em>Frontend Engineer @ <a href="https://scholiumtech.com/">Scholium Technologies</a></em></p>
+<p><em>Frontend Engineer @ Scholium Technologies</em></p>
 
 Previously:
   ---
