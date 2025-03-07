@@ -1,6 +1,4 @@
-## Hi I'm Amariah 👋
-
-### Frontend Engineer @ Scholium Technologies
+## 👋 Hi I'm Amariah (am-uh-RYE-uh)
 
 Former:
   ---
@@ -12,5 +10,5 @@ Former:
 -TypeScript
 -JavaScript
 -HTML5
--CSS
+-Sass/CSS
 -Git
